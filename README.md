@@ -1,2 +1,2 @@
-# Investment-Analysis-Case-Study
-To understand the global trends in investments so that a company can take the investment decisions effectively.
+# Investment Analysis Case Study
+Spark Funds wants to make investments in a few companies. The CEO of Spark Funds wants to understand the global trends in investments so that she can take the investment decisions effectively.
